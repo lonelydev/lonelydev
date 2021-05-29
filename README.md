@@ -31,5 +31,6 @@ I am a software engineer, who loves building stuff.
 
 ## Summary of Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=lonelydev&show_icons=true&include_all_commits=true&count_private=true&theme=onedark)](https://github.com/lonelydev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelydev&layout=compact&theme=onedark)](https://github.com/lonelydev/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=lonelydev&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true)](https://github.com/lonelydev/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelydev&layout=compact&theme=onedark&hide_border=true)](https://github.com/lonelydev/github-readme-stats)
