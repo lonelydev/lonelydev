@@ -27,7 +27,7 @@ I am a software engineer, who loves building stuff.
 - 💬 Ask me about: .NET, node, javascript/typescript, angular
 - ✍️ I like sharing what I learn on [Software Craftsperson](https://www.softwarecraftsperson.com/)
 - 😄 Pronouns: He/Him
-- You can also 👁️ my work experience in more detail than LinkedIn <a href="https://eakan.dev" target="_blank">in my online CV</a>
+- You can also 👁️ my work experience <a href="https://eakan.dev" target="_blank">here on my online CV</a>
 
 ## Summary of Stats
 
