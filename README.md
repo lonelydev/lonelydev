@@ -22,8 +22,8 @@ You seem to have stumbled upon my github profile!
 
 I am a software engineer, who loves building stuff.
 
-- 🧑‍💼 I’m currently working at [CFC Underwriting](https://www.cfcunderwriting.com/en-gb/) mostly building .NET APIs and occasionally working on some Angular
-- 👨‍🎓 I’m currently learning React and building an app as a weekend project
+- 🧑‍💼 I’m currently a Software Engineering Manager at [Kaluza](https://www.kaluza.com/) working with a few teams of awesome *Site Reliability Engineers* who are building some cool tools and developing ways to ensure we have a scalable and reliable platform  
+- 👨‍🎓 I’m currently learning Golang and occassionally some React
 - 💬 Ask me about: .NET, node, javascript/typescript, angular
 - ✍️ I like sharing what I learn on [Software Craftsperson](https://www.softwarecraftsperson.com/)
 - 😄 Pronouns: He/Him
