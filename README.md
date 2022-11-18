@@ -24,7 +24,7 @@ I am a software engineer, who loves building stuff.
 
 - 🧑‍💼 I’m currently a Software Engineering Manager at [Kaluza](https://www.kaluza.com/) working with a few teams of awesome *Site Reliability Engineers* who are building some cool tools and developing ways to ensure we have a scalable and reliable platform  
 - 👨‍🎓 I’m currently learning Golang and occassionally some React
-- 💬 Ask me about: .NET, node, javascript/typescript, angular
+- 💬 Ask me about: .NET, node, javascript/typescript, angular, DevOps, software development, engineering management
 - ✍️ I like sharing what I learn on [Software Craftsperson](https://www.softwarecraftsperson.com/)
 - 😄 Pronouns: He/Him
 - You can also 👁️ my work experience <a href="https://eakan.dev" target="_blank">here on my online CV</a>
