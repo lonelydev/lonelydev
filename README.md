@@ -20,14 +20,13 @@ You seem to have stumbled upon my github profile!
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-eakangk-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eakangk/)](https://www.linkedin.com/in/eakangk/) [![Github Badge](https://img.shields.io/badge/-lonelydev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lonelydev/)](https://www.github.com/lonelydev/) [![Twitter Badge](https://img.shields.io/badge/-eakangk-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/eakangk/)](https://www.twitter.com/eakangk/) [![Flickr Badge](https://img.shields.io/badge/flickr-eakangk-yellow)](https://www.flickr.com/eakangk)
 
-I am a software engineer, who loves building stuff.
+I am an engineering leader who loves building amazing teams that create positive lasting impact.
 
 - 🧑‍💼 I’m currently a Software Engineering Manager at [Kaluza](https://www.kaluza.com/) working with a few teams of awesome *Site Reliability Engineers* who are building some cool tools and developing ways to ensure we have a scalable and reliable platform  
-- 👨‍🎓 I’m currently learning Golang and occassionally some React
-- 💬 Ask me about: .NET, node, javascript/typescript, angular, DevOps, software development, engineering management
+- 💬 Ask me about: Site Reliability Engineering, DevOps, Software development in general, engineering management, etc
+  - Over my career as a sofware engineer I have coded in Perl, bash, PL/SQL, C, C++, C#, javascript, typescript
 - ✍️ I like sharing what I learn on [Software Craftsperson](https://www.softwarecraftsperson.com/)
-- 😄 Pronouns: He/Him
-- You can also 👁️ my work experience <a href="https://eakan.dev" target="_blank">here on my online CV</a>
+- <a href="https://eakan.dev" target="_blank">My CV</a>
 
 ## Summary of Stats
 
@@ -37,8 +36,7 @@ I am a software engineer, who loves building stuff.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelydev&layout=compact&theme=onedark&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelydev&layout=compact&theme=onedark&hide_border=true)
 
-## Tools and Tech at where I work in my most recent role
-
+## Tools and Tech I have used over the many years
 <code>[![Azure Devops](https://img.shields.io/static/v1?label=&message=Azure%20Devops&color=002b36&style=flat&logo=azure-devops&logoColor=0078d7)]()</code>
 <code>[![jQuery](https://img.shields.io/static/v1?label=&message=Azure%20Pipelines&color=002b36&style=flat&logo=azure-pipelines&logoColor=2560e0)]()</code>
 <code>[![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=002b36&style=flat&logo=microsoft-azure&logoColor=0078d7)]()</code>
@@ -53,10 +51,6 @@ I am a software engineer, who loves building stuff.
 <code>[![Hugo](https://img.shields.io/static/v1?label=&message=Hugo&color=002b36&style=flat&logo=hugo&logoColor=FF4088)]()</code>
 <code>[![Confluence](https://img.shields.io/static/v1?label=&message=Confluence&color=002b36&style=flat&logo=confluence&logoColor=172B4D)]()</code>
 <code>[![NuGet](https://img.shields.io/static/v1?label=&message=NuGet&color=002b36&style=flat&logo=nuget&logoColor=004880)]()</code>
-
-
-## Tools / Tech Stack - I use(d) in previous roles and side projects
-
 <code>[![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=002b36&style=flat&logo=angular&logoColor=DD0031)]()</code>
 <code>[![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=002b36&style=flat&logo=typescript&logoColor=2D79C7)]()</code>
 <code>[![React](https://img.shields.io/static/v1?label=&message=React&color=002b36&style=flat&logo=react&logoColor=61DBFB)]()</code>
