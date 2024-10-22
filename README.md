@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ## Hey 👋, I am Eakan Gopalakrishnan
-You seem to have stumbled upon my github profile!
 <!--
 [![Gmail Badge](https://img.shields.io/badge/-eakangk@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eakangk@gmail.com)](mailto:eakangk@gmail.com) 
 -->
