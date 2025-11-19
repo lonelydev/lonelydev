@@ -33,10 +33,7 @@ I am an engineering leader who loves building amazing teams that create positive
 
 ![Eakan's Github stats](https://github-readme-stats-lonelydev.vercel.app/api?username=lonelydev&show_icons=true&theme=onedark&hide_border=false)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats-lonelydev.vercel.app/api/top-langs/?username=lonelydev&layout=compact&theme=onedark&hide_border=true)
+![Top Langs](https://github-readme-stats-lonelydev.vercel.app/api/top-langs/?username=lonelydev&layout=pie&theme=onedark&hide_border=true)
 
 ## Tools and Tech I have used over the many years
 <code>[![Azure Devops](https://img.shields.io/static/v1?label=&message=Azure%20Devops&color=002b36&style=flat&logo=azure-devops&logoColor=0078d7)]()</code>
