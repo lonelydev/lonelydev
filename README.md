@@ -31,9 +31,9 @@ I am an engineering leader who loves building amazing teams that create positive
 
 > These are purely stats of the code I have on github generated using an awesome app called https://github.com/anuraghazra/github-readme-stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=lonelydev&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true)](https://github-readme-stats.vercel.app/api?username=lonelydev&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true)
+[![Github stats](https://github-readme-stats-eakan-gopalakrishnans-projects.vercel.app/api?username=lonelydev&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true)](https://github-readme-stats-eakan-gopalakrishnans-projects.vercel.app/api?username=lonelydev&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelydev&layout=compact&theme=onedark&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=lonelydev&layout=compact&theme=onedark&hide_border=true)
+[![Top Langs](https://github-readme-stats-eakan-gopalakrishnans-projects.vercel.app/api/top-langs/?username=lonelydev&layout=compact&theme=onedark&hide_border=true)](https://github-readme-stats-eakan-gopalakrishnans-projects.vercel.app/api/top-langs/?username=lonelydev&layout=compact&theme=onedark&hide_border=true)
 
 ## Tools and Tech I have used over the many years
 <code>[![Azure Devops](https://img.shields.io/static/v1?label=&message=Azure%20Devops&color=002b36&style=flat&logo=azure-devops&logoColor=0078d7)]()</code>
