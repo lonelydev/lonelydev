@@ -25,7 +25,7 @@ I am an engineering leader who loves building amazing teams that create positive
 - 💬 Ask me about: Site Reliability Engineering, DevOps, Software development in general, engineering management, etc
   - Over my career as a sofware engineer I have coded in Perl, bash, PL/SQL, C, C++, C#, javascript, typescript
 - ✍️ I like sharing what I learn on [Software Craftsperson](https://www.softwarecraftsperson.com/)
-- <a href="https://eakan.dev" target="_blank">My CV</a>
+- <a href="https://eakan.dev/resume" target="_blank">My Online Resume</a>
 
 ## Summary of Stats
 
